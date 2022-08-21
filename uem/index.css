@@ -1,0 +1,171 @@
+.head {
+       font-family: "Mouse Memoirs", sans-serif;
+       font-size: 2rem;
+       transition: 1s;
+       cursor: pointer;
+       background-image: linear-gradient(45deg, #616060, #5a5757);
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+       text-decoration: none;
+       text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.564);
+     }
+     .head table tr td a:hover{
+      background-color: burlywood;
+      background-image: linear-gradient(45deg, #00ffd0bc, #00ff8cab);
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+       text-decoration: none;
+       text-shadow: 2px 2px 2px rgba(0, 237, 213, 0.478);
+     }
+     #ee{
+       width: 5rem;
+       height: 5rem
+     }
+     .les{
+      position: relative;
+      font-size: 2rem;
+      font-family: 'Oswald', sans-serif;
+      padding-left:3vw;
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.323);
+      top:3vh;
+     }
+     .less{
+      background-color: rgb(13, 0, 255);
+      width:250px;
+      height: 4px;
+      position: relative;
+      left:-35vw;
+     } 
+     .intr{
+      position: relative;
+      left: 25vw;
+      font-family: 'Bebas Neue', cursive;
+      font-size: 1.4rem;
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.323);
+     }
+     .ho{
+      position: relative;
+      top:-3vh;
+      left:-41vw;
+      width: 150px;
+      height: 3px;
+      background-color: blue;
+     }
+     .mar{
+      width: 80vw;
+      height: 50vh;
+      color: red;
+      background-color: rgba(0, 255, 255, 0.07);
+      text-align: center;
+      position: relative;
+      left: -15vw;                                                                         
+      transition: 1s;
+       
+     }
+     .mar:hover{
+     transition: all 1s;
+     box-shadow: 8px 5px  rgba(0, 0, 0, 0.17) ;
+     }
+     .hoo{
+      height: 2px;
+      background-color: black;
+      color: black;
+     }
+     .dire{
+      background-color: rgba(0, 255, 174, 0.088);
+      width: 50vw;
+      height: 90vh;
+      transition: 1s;
+     }
+     .dire:hover{
+      transition: 1s;
+      box-shadow: 10px 5px rgba(0, 0, 0, 0.245);
+     }
+     .teh{
+      font-size: 2rem;
+      font-family: 'Bebas Neue', cursive;
+      position: relative;
+      left: 5vw;
+     }
+     .rey{
+      position: relative;
+      left: 8vw;
+      top:3vh;
+      transition: 1s;
+     }
+     .rey:hover{
+      transition: 1s;
+      box-shadow: 8px 4px rgba(0, 0, 0, 0.464);
+     }
+     .diree{
+      position: relative;
+      left: 51vw;
+      top: -90vh;
+      background-color: rgba(127, 255, 212, 0.529);
+      width: 48vw;
+      height: 90vh;
+     }
+     .tehc{
+      font-size: 2rem;
+      font-family: 'Bebas Neue', cursive;
+      position: relative;
+      left: 5vw;
+     }
+     .reyr{
+      position: relative;
+      left: 8vw;
+      top:3vh;
+      transition: 1s;
+     }
+     .reyr:hover{
+      transition: 1s;
+      box-shadow: 8px 4px rgba(0, 0, 0, 0.464);
+     }
+     .diree:hover{
+      transition: 1s;
+      box-shadow: 10px 5px rgba(0, 0, 0, 0.245);
+     }
+     .boom{
+      height: 55vh;
+      background-color: blue;
+      position: relative;
+      top: -89vh;
+      color: rgb(255, 238, 0);
+      font-family: 'Bebas Neue', cursive;
+      font-size: 3rem;
+     }
+     .im{
+      position: relative;
+      left: 10vh;
+      top: 3vh;
+     }
+     .aca{
+      position: relative;
+      top: 10vh;
+      left:-2vw;
+      font-size: 2rem;
+      text-decoration: none;
+      cursor: pointer;
+     }
+     .boom a{
+      text-decoration: none;
+     }
+     .ss{
+      background-color: rgba(165, 42, 42, 0.434);
+      height: 60vh;
+      position: relative;
+      top:-88vh;
+     }
+     .hie{
+      font-size: 1.8rem;
+      font-family: 'Bebas Neue', cursive;
+      position: relative;
+      left: 5vw;
+      color: rgba(255, 217, 0, 0.849);
+     }
+     .rex{
+      position: relative;
+      border-radius: 50%;
+      left: 5vw;
+      padding: 10px;
+     }
